@@ -1,0 +1,9 @@
+# IntelliJ IDEA
+.idea/
+out/
+
+# Compiled files
+*.class
+
+# OS files
+.DS_Store
