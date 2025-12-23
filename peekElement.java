@@ -1,5 +1,6 @@
 //peek element in a mountain array
 //also known as bitonic array first increaseing then decreasing
+//leetcode question no - 852, 162
 public class peekElement {
     public static void main(String[] args) {
         int[] arr= {0, 1, 2, 3, 4, 7, 2, 1};
