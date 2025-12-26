@@ -1,5 +1,5 @@
 import java.util.Arrays;
-public class BSin2Darr {
+public class searchin2Darr {
     public static void main(String[] args) {
             int[][] arr={
                     {10,20,30,40},
