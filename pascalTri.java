@@ -29,3 +29,5 @@ public class pascalTri{
         return nCr(n, r);
     }
 }
+
+//time complexity o(r)
