@@ -29,7 +29,9 @@ public class pascalTri2 {
 //            res = res / (i);
 //        }
 //        return (int) res;
-//    }
+//    }//the time complexity of this will be O(n*r)
+
+    //better approach with time complexity O(N)
     public static void printRow(int n){
         int res = 1;
         System.out.print(res +" ");
