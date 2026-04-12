@@ -1,3 +1,5 @@
+package BinarySearch;
+
 //peek element in a mountain array
 //also known as bitonic array first increaseing then decreasing
 //leetcode question no - 852, 162

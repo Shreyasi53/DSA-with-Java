@@ -1,4 +1,4 @@
-//Given an array which consists of non-negative integers and an integer m, you can split the array into m non-empty continuos subarray
+package ArrayProblems;//Given an array which consists of non-negative integers and an integer m, you can split the array into m non-empty continuos subarray
 //nums=[7, 2, 5, 10, 8], m=2 output=18
 //leetcode q410
 

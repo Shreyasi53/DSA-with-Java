@@ -1,3 +1,5 @@
+package BinarySearch;
+
 //we do not know the array is sorted in ascending or descending order that is called order agnostic
 public class orderAgnosticBS {
     public static void main(String[] args) {

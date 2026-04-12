@@ -1,4 +1,4 @@
-//leetcode question no-1095
+package BinarySearch;//leetcode question no-1095
 // int[] arr={1,2,3,4,5,3,1}; target=3
 //step-1 Find peek element => index 4
 //step-2 binary search in the ascending array =>(0,4)

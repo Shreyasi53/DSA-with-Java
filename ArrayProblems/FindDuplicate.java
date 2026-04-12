@@ -1,4 +1,4 @@
-//LC 287
+package ArrayProblems;//LC 287
 
 import java.util.Arrays;
 

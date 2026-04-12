@@ -1,7 +1,11 @@
-//LC- 645
+package ArrayProblems;//LC-442
+// https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
+//Time complexity - O(n)
 
-public class setMismatch {
-    public int[] findErrorNums(int[] nums) {
+import java.util.ArrayList;
+import java.util.List;
+public class FindAllDuplicates {
+    public List<Integer> findDuplicates(int[] nums) {
         int i=0;
         while (i < nums.length){
             int correct = nums[i]-1;
@@ -12,13 +16,13 @@ public class setMismatch {
                 i++;
             }
         }
-        //search for first missing number
+        List<Integer> ans = new ArrayList<>();
         for(int index = 0; index < nums.length; index++){
             if(nums[index] != index+1){
-                return new int[] {nums[index], index+1} ;
+                ans.add(nums[index]);
             }
         }
-        return new int[]{-1,-1};
+        return ans;
     }
 
     static void swap(int[] arr, int first, int second){

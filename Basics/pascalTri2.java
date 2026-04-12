@@ -1,4 +1,4 @@
-//Print any given row
+package Basics;//Print any given row
 //Let N=5 (input row no) ,, output = 1 4 6 4 1
 
 import java.util.Scanner;

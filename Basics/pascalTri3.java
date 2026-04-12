@@ -1,3 +1,5 @@
+package Basics;
+
 import java.util.Scanner;
 
 //Given N , print the whole pascal triangle

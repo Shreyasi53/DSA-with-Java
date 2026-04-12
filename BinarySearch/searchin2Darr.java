@@ -1,3 +1,5 @@
+package BinarySearch;
+
 import java.util.Arrays;
 public class searchin2Darr {
     public static void main(String[] args) {

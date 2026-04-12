@@ -1,3 +1,5 @@
+package ArrayProblems;
+
 public class findPos {
     public static void main(String[] args) {
 
