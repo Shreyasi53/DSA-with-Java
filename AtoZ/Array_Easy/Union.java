@@ -35,7 +35,7 @@ public class Union {
         int i=0, j=0;
         while(i<n && j<m){
             if(arr1[i]<arr2[j]){
-                if(Union.isEmpty()|| Union.get(Union.size()-1)!=0)
+                if(Union.isEmpty()|| Union.get(Union.size()-1)!=arr1[i])
                     Union.add(arr1[i]);
                 i++; //move pointer in arr1
             }
