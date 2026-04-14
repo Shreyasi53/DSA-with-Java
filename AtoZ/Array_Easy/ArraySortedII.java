@@ -1,4 +1,4 @@
-package AtoZ;
+package AtoZ.Array_Easy;
 
 import java.util.Scanner;
 

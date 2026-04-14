@@ -1,6 +1,6 @@
 //Given an array, we have to find the largest element in the array.
 
-package AtoZ;
+package AtoZ.Array_Easy;
 
 import java.util.Scanner;
 

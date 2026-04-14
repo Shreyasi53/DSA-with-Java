@@ -1,4 +1,4 @@
-package AtoZ;
+package AtoZ.Array_Easy;
 //Given an integer array, rotate the array to the right by k steps,
 import java.util.Arrays;
 import java.util.Scanner;
