@@ -1,4 +1,7 @@
-package AtoZ.LL;
+package AtoZ.LL.Singly;
+
+import AtoZ.LL.Singly.Node;
+
 //search element in linkedlist
 public class searchInLL {
     public static boolean search(Node head, int key){

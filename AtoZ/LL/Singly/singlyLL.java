@@ -1,5 +1,5 @@
-package AtoZ.LL;
-import java.util.*;
+package AtoZ.LL.Singly;
+import AtoZ.LL.Singly.Node;
 
 public class singlyLL {
     //insert at beginning

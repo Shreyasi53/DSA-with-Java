@@ -1,4 +1,4 @@
-package AtoZ.LL;
+package AtoZ.LL.Singly;
 
 public class FindLLLength {
 //find length
