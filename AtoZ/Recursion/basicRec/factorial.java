@@ -1,4 +1,4 @@
-package AtoZ.Recursion;
+package AtoZ.Recursion.basicRec;
 
 public class factorial {
     static int fact(int n){

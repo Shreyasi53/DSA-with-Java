@@ -1,4 +1,4 @@
-package AtoZ.Recursion;
+package AtoZ.Recursion.basicRec;
 
 public class printN {
     static void print(int n){
